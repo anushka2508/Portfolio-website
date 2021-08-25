@@ -1,2 +1,0 @@
-this is the first version of my project
-this should go into commit 2
